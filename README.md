@@ -1,5 +1,6 @@
 # A UwU Cafe for QBCore Framework.
 Link to the MLO: https://fivem.gabzv.com/package/4724734
+Link to the vehicle: https://www.gta5-mods.com/vehicles/vapid-speedo-express-add-on-liveries
 
 ## Dependencies:
 * qb-target
