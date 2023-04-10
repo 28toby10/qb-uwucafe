@@ -1,8 +1,11 @@
 # A UwU Cafe for QBCore Framework.
+Link to the MLO: https://fivem.gabzv.com/package/4724734
 
-
- Link to the MLO: https://fivem.gabzv.com/package/4724734
-
+## Dependencies:
+* qb-target
+* qb-management
+* qb-input
+* qb-menu
 
 ## Add this to your @qb-core/shared/items.lua
 ```
